@@ -1,0 +1,21 @@
+{
+  "name": "wade-ui",
+  "version": "1.3.7",
+  "description": "person ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "person",
+    "toast",
+    "scrollLoadMore",
+    "scrollRefresh",
+    "small",
+    "moveLftRight",
+    "picker"
+  ],
+  "author": "wade",
+  "license": "ISC"
+}
